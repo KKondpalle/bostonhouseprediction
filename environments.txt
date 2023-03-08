@@ -1,0 +1,3 @@
+C:\Users\kaust\anaconda3
+C:\Users\kaust\anaconda3\envs\mlops
+C:\Users\kaust\anaconda3\envs\sampleenv
